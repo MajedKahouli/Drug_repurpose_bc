@@ -1,8 +1,18 @@
-﻿work/
-**/__pycache__/
-*.log
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Data (raw + large outputs)
+data/raw/
+work/
+*.parquet
+*.csv.gz
+
+# Figures cache
+figures/tmp/
+
+# OS cruft
 .DS_Store
 Thumbs.db
-.vscode/
-.ipynb_checkpoints/
-data/raw/
