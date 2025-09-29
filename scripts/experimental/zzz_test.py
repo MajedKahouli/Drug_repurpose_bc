@@ -1,0 +1,1 @@
+﻿print('script is running')
