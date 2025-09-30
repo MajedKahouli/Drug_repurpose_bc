@@ -1,0 +1,31 @@
+drug	class	mechanism	synonyms
+tamoxifen	endocrine	SERM	
+toremifene	endocrine	SERM	
+fulvestrant	endocrine	SERD	
+anastrozole	endocrine	aromatase_inhibitor	
+letrozole	endocrine	aromatase_inhibitor	
+exemestane	endocrine	aromatase_inhibitor	
+trastuzumab	her2_targeted	anti-HER2_mAb	herceptin
+pertuzumab	her2_targeted	anti-HER2_mAb	
+lapatinib	her2_targeted	HER2_EGFR_TKI	
+neratinib	her2_targeted	HER2_EGFR_TKI	
+tucatinib	her2_targeted	HER2_selective_TKI	
+ado-trastuzumab emtansine	her2_targeted	ADC_T-DM1	t-dm1, kadcyla
+trastuzumab deruxtecan	her2_targeted	ADC_T-DXd	t-dxd, enhertu
+palbociclib	cdk4_6_inhibitor	CDK4_6_inhibitor	
+ribociclib	cdk4_6_inhibitor	CDK4_6_inhibitor	
+abemaciclib	cdk4_6_inhibitor	CDK4_6_inhibitor	
+olaparib	parp_inhibitor	PARP_inhibitor	
+talazoparib	parp_inhibitor	PARP_inhibitor	
+alpelisib	pi3k_akt_mtor	PI3K_alpha_inhibitor	
+capivasertib	pi3k_akt_mtor	AKT_inhibitor	
+everolimus	pi3k_akt_mtor	mTOR_inhibitor	
+doxorubicin	chemotherapy	anthracycline	adriamycin
+epirubicin	chemotherapy	anthracycline	
+cyclophosphamide	chemotherapy	alkylating_agent	
+paclitaxel	chemotherapy	taxane	
+docetaxel	chemotherapy	taxane	
+carboplatin	chemotherapy	platinum	
+capecitabine	chemotherapy	antimetabolite	
+eribulin	chemotherapy	microtubule_dynamics_inhibitor	
+sacituzumab govitecan	adc_trop2	ADC_TROP2	trodelvy
