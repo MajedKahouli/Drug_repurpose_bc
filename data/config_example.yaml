@@ -1,0 +1,16 @@
+﻿# Example config for running the pipeline locally.
+# Copy to config.yaml and edit paths.
+
+paths:
+  sample_sheet: data/sample_sheet_example.tsv
+  labels_tsv:  data/validation/breast_cancer_drugs.tsv
+  work_dir:    work/
+
+weights:
+  reversal: 0.60
+  proximity: 0.20
+  overlap: 0.20
+
+evaluation:
+  topk: [10, 25, 50]
+  lopo: true
