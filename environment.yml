@@ -1,10 +1,14 @@
-﻿name: repurpose
+﻿name: repurpose-bc
 channels: [conda-forge, defaults]
 dependencies:
   - python=3.10
   - pandas
   - numpy
+  - scipy
   - scikit-learn
+  - pyarrow
   - matplotlib
   - seaborn
-  - pyarrow
+  - pip
+  - pip:
+      - tabulate
